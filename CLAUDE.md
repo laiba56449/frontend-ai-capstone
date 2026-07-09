@@ -12,4 +12,4 @@ Frontend AI Engineering Capstone
 - Follow react best practices
 - Keep componenets modular and reusable
 - Add coments only when necessary
-- Follow Conventional commits
+- Follow Conventional commits.
