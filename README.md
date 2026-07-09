@@ -1,2 +1,2 @@
-# frontend-ai-capstone
-My Flyrank Frontend AI Engineering capstone
+## frontend-ai-capstone
+My Flyrank Frontend AI Engineering capstone.
